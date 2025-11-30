@@ -65,7 +65,7 @@ int main() {
     srand(time(NULL));
     
     printf("===========================================================\n");
-    printf("     TETRIS STACK - SISTEMA AVANCADO (NIVEL 3)\n");
+    printf("     TETRIS STACK - O JOGO \n");
     printf("===========================================================\n\n");
     
     // Inicializa as estruturas
@@ -112,7 +112,7 @@ int main() {
                 
             case 0:
                 printf("===========================================================\n");
-                printf("           Encerrando Tetris Stack...\n");
+                printf("           Encerrando Tetris Stack: O jogo ...\n");
                 printf("===========================================================\n");
                 break;
                 
